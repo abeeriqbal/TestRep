@@ -30,6 +30,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    func testWarningCommit() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated.
+    }
     
     
 
